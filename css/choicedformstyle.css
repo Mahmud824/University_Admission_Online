@@ -1,0 +1,35 @@
+.std_h{
+    width: 100%;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.std_img{
+    float: left;
+    margin-left: 40px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 320px;
+    height: 320px;
+    border: 1px solid #fff;
+}
+.std_img img{
+    width: 300px;
+    height: 300px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+.std_inform p{
+    width: 96%;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-top: 10px;
+    border-bottom: 1px dotted #fff;
+}
+.std_inform{
+    float: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 500px;
+    height: 320px;
+    border: 1px solid #fff;
+}

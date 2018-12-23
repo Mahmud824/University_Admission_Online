@@ -1,0 +1,47 @@
+.set1{
+    width: 300px;
+    float: left;
+
+}
+.set2{
+    width: 300px;
+    float: left;
+}
+.contentset img{
+    width: 270px;
+    height: 110px;
+}
+.contentset p{
+    font-size: 40px;
+}
+.b1, .b2,.b3,.b4{
+    position: relative;
+}
+.b1 p{
+    position: absolute;
+    top:26%;
+    left:37%;
+    bottom: 0;
+    right: 0px;
+}
+.b2 p{
+    position: absolute;
+    top:26%;
+    left:37%;
+    bottom: 0;
+    right: 0px;
+}
+.b3 p{
+    position: absolute;
+    top:26%;
+    left:37%;
+    bottom: 0;
+    right: 0px;
+}
+.b4 p{
+    position: absolute;
+    top:26%;
+    left:37%;
+    bottom: 0;
+    right: 0px;
+}

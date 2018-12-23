@@ -1,0 +1,139 @@
+.ttl{
+    width: 1300px;
+    margin: auto;
+}
+form{
+    margin-right: 15px;
+    float: left;
+    width: 70%;
+}
+.applicant{
+    width: 100%;
+}
+.ah{
+    margin-top: 10px;
+    width: 100%;
+    height: 30px;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.ahi,.ahn,.ahar,.ahm,.ahu,.ahc1,.ahc2,.ahd,.aha,.ai,.an,.aar,.am,.au,.ac1,.ac2,.ad,.aa{
+    float: left;
+    height: 100%;
+    border-left: 1px solid #fff;
+}
+.ahi p,.ahn p,.ahar p,.ahm p,.ahu p,.ahc1 p,.ahc2 p,.ahd p,.aha p{
+    padding-left: 10px;
+    padding-top: 3px;
+}
+.ai img{
+    padding-top: 5px;
+    padding-left: 5px;
+    width:60px;
+    height: 60px;
+}
+.ai img:hover{
+    transition: 1s;
+    transform: scale(2.0);
+}
+.ahi,.ai{
+    width: 10%;
+}
+.ahn,.an{
+    width: 20%;
+}
+.ahar,.aar{
+    width: 13%;
+}
+.ahm,.am{
+    width: 12%;
+}
+.ahu,.au{
+    width: 5%;
+}
+.ahc1,.ac1{
+    width: 10%;
+}
+.ahc2,.ac2{
+    width: 10%;
+}
+.ahd,.ad{
+    width: 10%;
+}
+.aha,.aa{
+    width: 8%;
+}
+.ai p,.an p,.aar p,.am p,.au p,.ac1 p,.ac2 p,.ad p,.aa p{
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.ap input{
+    margin-top:25px;
+    margin-left: 10px;
+}
+.aa input{
+    margin-top:20px;
+    margin-left: 10px;}
+.amb{
+    width: 100%;
+    height: 70px;
+    border-bottom: 1px solid #fff;
+}
+.ad select{
+    margin-top: 25px;
+    width: 100%;
+}
+.sidetable{
+    margin-top: 10px;
+    width: 27%;
+    float: left;
+}
+.dd{
+    border-bottom: 1px solid #fff;
+    height: 41px;
+}
+.dh{
+    height: 50px;
+}
+.dhn p,.dhts p,.dhas p,.dhp p{
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+.dn p,.dts p,.das p,.dp p{
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+.dhn,.dhts,.dhas,.dhp{
+    float: left;
+    height: 100%;
+    border-left: 1px solid #fff;
+    border-top: 1px solid #fff;
+    border-bottom: 1px solid #fff;
+}
+.dn,.dts,.das,.dp{
+    float: left;
+    height: 40px;
+    border-bottom: 1px solid #fff;
+    border-left: 1px solid #fff;
+
+}
+.dhp{
+    border-right: 1px solid #fff;
+}
+.dp{
+    border-right: 1px solid #fff;
+}
+.dn,.dhn{
+    width: 25%;
+}
+.dts,.dhts{
+    width: 25%;
+}
+.dhas,.das{
+    width: 25%;
+}
+.dhp,.dp{
+    width: 23%;
+}

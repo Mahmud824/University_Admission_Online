@@ -1,0 +1,234 @@
+
+select{
+    width: 150px;
+}
+input[type=text] {
+    width: 150px;
+    margin: 8px 0;
+    box-sizing: border-box;
+}
+
+form{
+    font-family: regularstyle;
+    margin: 30px auto;
+    width:1150px;
+    padding-bottom: 40px;
+}
+legend{font-size: 28px;
+    font-family: regularstyle;
+    color: rgb(255, 255, 255);
+}
+
+
+.fpe{
+    width: 1090px;
+    /* margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px; */
+    margin: 30px auto;
+    border: .5px dotted #ffffff;
+    height: 273px;
+}
+.fpeh{
+    margin-top: 10px;
+    margin-left: 40px;
+    width: 100%;
+}
+.fpe p{
+    margin-left: 40px;
+    width: 100%;
+}
+.fpe1{
+    width: 336px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.fpe2{
+    width: 336px;
+    float: left;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.fpe3{
+    width: 336px;
+    float: left;
+}
+
+.fpa{
+    width: 1090px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: .5px dotted #ffffff;
+    height: 173px;
+}
+.fpah{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.fpa p{
+    margin-left: 40px;
+}
+.fpa1{
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.fpa2{
+    width: 400px;
+    margin-left: 20px;
+    float: left;
+    margin-right: 20px;
+}
+
+.fai{
+    width: 1090px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: .5px dotted #ffffff;
+    height: 118px;
+}
+.faih{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.fai p{
+    margin-left: 40px;
+}
+.fai1{
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.fai2{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+}
+
+.feis{
+    width: 1090px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: .5px dotted #ffffff;
+    height: 215px;
+}
+.feish{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.feis p{
+    margin-left: 40px;
+}
+.feis1{
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.feis2{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+}
+
+.feih{
+    width: 1090px;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 1px dotted #ffffff;
+    height: 218px;
+}
+.feihh{
+    margin-top: 10px;
+    margin-left: 40px;
+}
+.feih p{
+    margin-left: 40px;
+}
+.feih1{
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+    margin-right: 20px;
+    border-right: 1px solid rgb(153, 148, 148);
+}
+.feih2{
+    width: 400px;
+    float: left;
+    margin-right: 20px;
+}
+
+.btn{
+    
+    width: 1090px;
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 30px;}
+
+/*Button from w3school*/
+.button {
+    box-shadow: 5px 5px #000000;
+    position: relative;
+    left: 50%;
+    margin-left: -50px;
+    border-radius: 4px;
+    background-color: #8076b1;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 20px;
+    padding: 12px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .button:hover span {
+    padding-right: 25px;
+  }
+  
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
